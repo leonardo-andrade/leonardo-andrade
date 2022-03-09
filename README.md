@@ -1,7 +1,7 @@
 ### Hello World! Eu sou o Leonardo Andrade 🕹️
 
 - 👨‍💻 Hoje trabalho com back-end
-- ☕ Estudando Java
+- ☕ Estudando Java Web
 
 <div align="center">
   <a href="https://github.com/leonardo-andrade">
