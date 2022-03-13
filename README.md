@@ -1,4 +1,4 @@
-### Hello World! Eu sou o Leonardo Andrade 🕹️
+### Hello World! Eu sou o Leonardo🕹️
 
 - 👨‍💻 Hoje trabalho com back-end
 - ☕ Estudando Java Web
